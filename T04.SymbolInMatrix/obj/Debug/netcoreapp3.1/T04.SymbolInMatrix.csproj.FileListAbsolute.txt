@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\MultidimensionalArrays\T04.SymbolInMatrix\bin\Debug\netcoreapp3.1\T04.SymbolInMatrix.exe
+C:\Users\user\source\repos\MultidimensionalArrays\T04.SymbolInMatrix\bin\Debug\netcoreapp3.1\T04.SymbolInMatrix.deps.json
+C:\Users\user\source\repos\MultidimensionalArrays\T04.SymbolInMatrix\bin\Debug\netcoreapp3.1\T04.SymbolInMatrix.runtimeconfig.json
+C:\Users\user\source\repos\MultidimensionalArrays\T04.SymbolInMatrix\bin\Debug\netcoreapp3.1\T04.SymbolInMatrix.runtimeconfig.dev.json
+C:\Users\user\source\repos\MultidimensionalArrays\T04.SymbolInMatrix\bin\Debug\netcoreapp3.1\T04.SymbolInMatrix.dll
+C:\Users\user\source\repos\MultidimensionalArrays\T04.SymbolInMatrix\bin\Debug\netcoreapp3.1\T04.SymbolInMatrix.pdb
+C:\Users\user\source\repos\MultidimensionalArrays\T04.SymbolInMatrix\obj\Debug\netcoreapp3.1\T04.SymbolInMatrix.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MultidimensionalArrays\T04.SymbolInMatrix\obj\Debug\netcoreapp3.1\T04.SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MultidimensionalArrays\T04.SymbolInMatrix\obj\Debug\netcoreapp3.1\T04.SymbolInMatrix.AssemblyInfo.cs
+C:\Users\user\source\repos\MultidimensionalArrays\T04.SymbolInMatrix\obj\Debug\netcoreapp3.1\T04.SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MultidimensionalArrays\T04.SymbolInMatrix\obj\Debug\netcoreapp3.1\T04.SymbolInMatrix.dll
+C:\Users\user\source\repos\MultidimensionalArrays\T04.SymbolInMatrix\obj\Debug\netcoreapp3.1\T04.SymbolInMatrix.pdb
+C:\Users\user\source\repos\MultidimensionalArrays\T04.SymbolInMatrix\obj\Debug\netcoreapp3.1\T04.SymbolInMatrix.genruntimeconfig.cache
